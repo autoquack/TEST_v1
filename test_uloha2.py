@@ -20,8 +20,8 @@ for x in text_1:
     else:
         znaky += 1
 
-for char in text_1:
-    if char in samohlasky_def:
+for y in text_1:
+    if y in samohlasky_def:
         samohlasky = samohlasky+1
 
 print("Pocet pismen =", pismena, "\nPocet cisel =", cisla, "\nPocet specialnych znakov =", znaky,"\nPocet samohlasok =", samohlasky)
