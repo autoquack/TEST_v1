@@ -26,6 +26,7 @@ for y in text_1:
 
 print("Pocet pismen =", pismena, "\nPocet cisel =", cisla, "\nPocet specialnych znakov =", znaky,"\nPocet samohlasok =", samohlasky)
 
+
 #samohlasky = 0
 #samohlasky = "a"
 
