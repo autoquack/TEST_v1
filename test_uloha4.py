@@ -5,6 +5,10 @@ text = input("Zadaj text:\n")
 x = (text[::-1])
 print(x)
 
+#y = len(text)
+
+#(text[0]) = (text[y])
+#print(text)
 
 ####
 
