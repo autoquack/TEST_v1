@@ -49,5 +49,5 @@ fields[0:array_size] = r_number
 print(fields)
 
 #porovnanie arrayu
-for field in fields:
-    if field ==
+#for field in fields:
+#    if field ==
