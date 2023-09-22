@@ -27,3 +27,5 @@ def odd2_numbers(lst):
 print(odd2_numbers(array))
 #Uncomment the line below when your function is done
 #print(odd_indices([4, 3, 7, 10, 11, -2, 6]))
+
+# cez if else spravit

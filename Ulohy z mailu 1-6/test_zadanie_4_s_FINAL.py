@@ -1,5 +1,5 @@
 import random
-array = [random.randint(0,1000) for i in range(10)]
+array = [random.randint(0,100) for i in range(10)]
 print("10 nahodne generovanych cisel:\n", array)
 
 isPrime_array = []
