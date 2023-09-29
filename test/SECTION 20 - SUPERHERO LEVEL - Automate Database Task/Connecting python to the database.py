@@ -11,7 +11,7 @@ else:
 
 cursor = connection.cursor()
 
-cursor.execute('''create table mystaff2.employees
+cursor.execute('''create table mystaff3.employees
 (id int primary key not null,
 first_name varchar(25) not null,
 last_name varchar(25) not null,
