@@ -2,7 +2,7 @@
 #
 # a = int(1)
 # print(a)
-b = "test"
+b = "test 2"
 # print(b)
 # c = ["alpha", "beta", "gamma"]
 # print(c)

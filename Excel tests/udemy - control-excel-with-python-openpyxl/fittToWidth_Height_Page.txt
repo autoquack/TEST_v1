@@ -1,0 +1,20 @@
+#Fit sheet on one page
+ws1.sheet_properties.pageSetUpPr.fitToPage= False
+ws1.page_setup.fitToHeight = False
+ws1.page_setup.fitToWidth = False
+ws1.sheet_properties.pageSetUpPr.fitToPage= True
+ws1.page_setup.fitToHeight = True
+ws1.page_setup.fitToWidth = True
+
+#Fit all columns on one page
+ws1.sheet_properties.pageSetUpPr.fitToPage= True
+ws1.page_setup.fitToHeight = False
+ws1.page_setup.fitToWidth = False
+ws1.page_setup.fitToWidth = True
+
+#Fit all Rows on one page
+ws1.sheet_properties.pageSetUpPr.fitToPage= True
+ws1.page_setup.fitToHeight = False
+ws1.page_setup.fitToWidth = False
+ws1.page_setup.fitToHeight = True
+
